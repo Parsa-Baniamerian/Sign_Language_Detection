@@ -1,4 +1,4 @@
-# Sign Language Detection using Mediapipe and Custom LSTM Model
+# Sign Language Detection
 
 This project aims to detect and recognize sign language gestures in real-time using a custom-trained LSTM model and the Mediapipe library for extracting keypoints. The model predicts three sign language gestures from a live webcam feed.
 
